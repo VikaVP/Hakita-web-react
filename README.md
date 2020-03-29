@@ -78,13 +78,13 @@ See the [open issues](https://github.com/VikaVP/Hakita-website-React/issues) for
 
 <p align='center'>
   <span>
-      <image width="300" src='./screenshoot/1.png' />
-      <image width="300" src='./screenshoot/2.png' />  
+      <image width="500" src='./screenshoot/1.png' />
+      <image width="500" src='./screenshoot/2.png' />  
   </span>
 </p>
 <p align='center'>
   <span>
-      <image width="300" src='./screenshoot/3.png' />
+      <image width="500" src='./screenshoot/3.png' />
   </span>
 </p>
 
